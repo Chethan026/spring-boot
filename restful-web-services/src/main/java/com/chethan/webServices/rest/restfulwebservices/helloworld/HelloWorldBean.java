@@ -1,4 +1,4 @@
-package com.chethan.webServices.rest.restfulwebservices;
+package com.chethan.webServices.rest.restfulwebservices.helloworld;
 
 public class HelloWorldBean {
 	
